@@ -1,0 +1,5 @@
+com\talentica\model\Product.class
+com\talentica\CSVReader.class
+com\talentica\Talentica.class
+com\talentica\model\Shop.class
+com\talentica\ShopFinder.class

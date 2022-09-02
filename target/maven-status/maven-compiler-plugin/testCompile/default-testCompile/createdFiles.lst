@@ -1,0 +1,5 @@
+com\talentica\TalenticaTest.class
+com\talentica\CSVReaderTest$BasicCSVTest.class
+com\talentica\CSVReaderTest.class
+com\talentica\CSVReaderTest$CSVWithEmptyLinesTest.class
+com\talentica\ShopFinderTest.class
